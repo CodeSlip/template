@@ -79,17 +79,18 @@ function Dashboard() {
               {/* <DashboardCard04 /> */}
               {/* Line chart (Real Time Value) */}
               {/* Card (Recent Activity) */}
-              {/* Line chart (Sales Over Time) */}
+              {/* Line chart (Sales Over Time)
               <DashboardCard08 />
               {/* Stacked bar chart (Sales VS Refunds) */}
-              <DashboardCard09 />
+              {/* <DashboardCard09 /> */}
               <DashboardCard05 />
+                             {/* Doughnut chart (Top Countries) */}
+                            <DashboardCard06 />
+
               <DashboardCard12 />
               {/* Card (Income/Expenses) */}
               <DashboardCard13 />
               
-              {/* Doughnut chart (Top Countries) */}
-              <DashboardCard06 />
               {/* Table (Top Channels) */}
               <DashboardCard07 />
 
